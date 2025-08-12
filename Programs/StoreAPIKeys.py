@@ -17,11 +17,11 @@ delimiter='%'
 col1='lastfm'
 col2='spotify'
 header=(col1,col2)
-# API Keys
-lastfm_public='fe81b64975b837f106e6997c9b67573b'
-lastfm_secret='f32a9fec5220445fdebeaa6862fe313b'
-spotify_public='a39851851cfb494399cc9131fa97f835'
-spotify_secret='c9b060e76f08423eada8fe2c0e8b26dd'
+# API Keys manual input
+lastfm_public=
+lastfm_secret=
+spotify_public=
+spotify_secret=
 
 
 public_keys=(lastfm_public,spotify_public)
@@ -35,4 +35,5 @@ with open(file_name,'w',newline='') as in_file:
 
 print(f'API Keys successfully written to {file_name}')
 # Ending Note
+
 print('Program Ends')
