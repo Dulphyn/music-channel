@@ -32,8 +32,8 @@ The following makes conlusions from the PivotChart with the name, "Simplified Fi
 
 On another note, we can see that user posts linking Spotify have dwindled as time has gone on. I am unsure whether or not this is due to people using YouTube more often to listen to their music or perhaps people just found it convenient to have all of the music posted to be from the same domain. The other domains very occassionally seen (Bandcamp, Twitter, etc.) make up such a small percentage that there isn't particularly anything noteworthy to say about them.
 
-- What problems did I encounterduring this project?
-There were countless problems I had to deal with while working on this project. As someone who has only taken one course on Python and has only vaguely interacted with APIs in the past, I had to figure out most of the critical componenents on the fly. As to be expected, everything API related 
+- What problems did I encounter during this project?
+There were countless problems I had to deal with while working on this project. As someone who has only taken one course on Python and has only vaguely interacted with APIs in the past, I had to figure out most of the critical componenents on the fly. Due to this lack of hands-on experience, APIs ended up posing the vast majority of problems. Another significant issue that I encountered was actually after everything was finished. As can be seen below, there is so many steps to updating the data due to a lack of any progress saving measures for most of the programs as well as simply the number of programs that need to be used to get the job done.
 
 - How to update the data:
 1. Open DiscordChatExporter.exe
